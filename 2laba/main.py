@@ -28,11 +28,7 @@ def insertionSort(arr, a, b):
 a = 0
 b = 0
 
-arr = [-12, 34, 25, 0, 22, 11, 2]
-print("Enter mezhi sortyvannia : a")
-a = int(input())
-print("b:")
-b = int(input())
+int asss;
 
 print("UnSorted array is:")
 for i in range(len(arr)):
